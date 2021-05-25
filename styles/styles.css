@@ -45,6 +45,10 @@ body {
   background-color: #F8E8E8;
 }
 
+.profile {
+  padding: 10px;
+}
+
 .profile .profilePhoto {
   width: 70px;
 }

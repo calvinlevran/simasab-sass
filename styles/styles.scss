@@ -14,7 +14,6 @@ body {
 .header-app .jam{
     margin-left: 10px;
 }
-
 .header-app .signal{
     width: 15px;
     float: right;
@@ -38,6 +37,10 @@ body {
 
 .profile{
     background-color: $secondary-color;
+}
+
+.profile{
+    padding: 10px;
 }
 
 .profile .profilePhoto{
